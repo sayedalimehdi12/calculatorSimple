@@ -1,2 +1,2 @@
 "# calculatorSimple" 
-go to main
+go to master 
